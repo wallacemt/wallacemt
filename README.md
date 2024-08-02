@@ -1,18 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-from datetime import datetime
-
-# Função para calcular a idade
-def calcular_idade(ano_nascimento):
-    ano_atual = datetime.now().year
-    return ano_atual - ano_nascimento
-
-ano_nascimento = 2003
-idade = calcular_idade(ano_nascimento)
-
-mensagem = f"""
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wallace+Santana;I'm+{idade}+years+old;I+am+from+Salvador,+BA;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-"""
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wallace+Santana;I'm+20+years+old;I+am+from+Salvador,+BA;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
