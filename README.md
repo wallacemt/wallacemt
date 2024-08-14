@@ -9,9 +9,6 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=wallacemt&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
 </p>
 <p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wallacemt&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-</p>
-<p align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=compact&theme=radical" />
 </p>
 
