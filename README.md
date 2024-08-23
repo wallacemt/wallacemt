@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wallacemt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=wallacemt&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
-</p>
 <p align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=compact&theme=radical" />
 </p>
