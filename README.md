@@ -6,7 +6,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wallacemt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=donut&theme=radical" />
 </p>
 
 <div align="center">  
