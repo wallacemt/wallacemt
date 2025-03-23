@@ -5,9 +5,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wallacemt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=donut&theme=radical" />
-</p>
+<div class="status" align="center">
+  <img alt="toplangs-stats" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=compact&hide_border=true&theme=midnight-purple" />
+  <img alt="strak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wallacemt&theme=git-dark&hide_border=true&short_numbers=true" /> 
+</div>
 
 <div align="center">  
   <a href="https://www.instagram.com/wallace_stm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
