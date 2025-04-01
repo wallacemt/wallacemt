@@ -8,6 +8,7 @@
 <div class="status" align="center">
   <img alt="toplangs-stats" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=compact&hide_border=true&theme=midnight-purple" />
   <img alt="strak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wallacemt&theme=git-dark&hide_border=true&short_numbers=true" /> 
+  <img alt="status" height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallacemt&theme=great_gatsby"/>
 </div>
 
 <div align="center">  
