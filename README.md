@@ -21,7 +21,11 @@
 ### 🏗️ DevOps:
 ![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
- 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000.svg?style=for-the-badge&logo=rabbitmq&logoColor=%F57B20)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon&logoColor=%F57B20)&nbsp;
+![AWS](https://img.shields.io/badge/Google_Cloud-000.svg?style=for-the-badge&logo=googlecloud&logoColor=%F57B20)&nbsp;
+
+
 ### 🗄️ Database:
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![My Sql](https://img.shields.io/badge/MySQL-3982CE?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -32,6 +36,12 @@
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring-fff.svg?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-000.svg?style=for-the-badge&logo=swagger&logoColor=green)&nbsp;
+
+
+
+
 
 ### 🏄‍♂️ Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
