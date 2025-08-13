@@ -20,11 +20,15 @@
 
 ### 🏗️ DevOps:
 ![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Docker Swarm](https://img.shields.io/badge/docker_swarm-257bd6?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0E2780?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000.svg?style=for-the-badge&logo=rabbitmq&logoColor=%F57B20)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon&logoColor=%F57B20)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-000.svg?style=for-the-badge&logo=googlecloud&logoColor=%F57B20)&nbsp;
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+
+
 
 ### 🗄️ Database:
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
