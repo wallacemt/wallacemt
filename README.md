@@ -2,13 +2,9 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wallace+Santana;I+am+from+Salvador,+BA;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wallacemt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="profile-trophy" />
-</p>
-<div class="status" align="center">
-  <img alt="toplangs-stats" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemt&layout=compact&hide_border=true&theme=midnight-purple"  />
-  <img alt="strak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wallacemt&theme=git-dark&hide_border=true&short_numbers=true"  /> 
-  <img alt="status" height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallacemt&theme=great_gatsby"/>
+<div class="status" align="center" style="display:flex; flex-direction:column; width:100%; gap:20px;">
+  <img alt="status" height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallacemt&theme=great_gatsby" style="width:100%; max-width:495px; margin:0 auto;"/>
+  <img alt="strak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wallacemt&theme=tokyonight&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=true&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=gradient&properties=background&ring=%23580CEB" style="width:100%; max-width:495px; margin:0 auto;"/> 
 </div>
 
 <div align="center">  
