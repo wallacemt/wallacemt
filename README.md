@@ -138,9 +138,9 @@
 <p align="center">
 <!-- ROTATING_GIF_START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rain_astetic_dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="assets/building_white.gif">
-  <img src="assets/rain_astetic_dark.gif" alt="vibe" width="50%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stairs_dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stairs_white.gif">
+  <img src="assets/stairs_dark.gif" alt="vibe" width="50%"/>
 </picture>
 <!-- ROTATING_GIF_END -->
 </p>
