@@ -20,9 +20,9 @@ new_light = LIGHT_GIFS[next_light_idx]
 
 new_section = f"""<!-- ROTATING_GIF_START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/{new_dark}">
-  <source media="(prefers-color-scheme: light)" srcset="assets/{new_light}">
-  <img src="assets/{new_dark}" alt="vibe" width="50%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/{new_dark}" style="border-radius:50%;">
+  <source media="(prefers-color-scheme: light)" srcset="assets/{new_light}" style="border-radius:50%;">
+  <img src="assets/{new_dark}" alt="vibe" width="50%" style="border-radius:70%;"/>
 </picture>
 <!-- ROTATING_GIF_END -->"""
 

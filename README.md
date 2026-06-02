@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d629d9&size=32&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Wallace+Santana;Full+Stack+Developer+%26+Cloud+Engineer;AWS+Certified+Cloud;Salvador,+BA+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <div align="center" style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
-  <img alt="profile-details" height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallacemt&theme=tokyonight"/>
+
   <img alt="streak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wallacemt&theme=tokyonight&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=true&date_format=j+M%5B+Y%5D&mode=daily&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg"/>
 </div>
 
@@ -111,8 +111,7 @@
 
 > Banco digital fictício com autenticação 2FA + anti-brute-force, transferências Pix com histórico e comprovantes, e o TransferShell — um terminal interativo inspirado em Linux para realizar transações via comandos.
 
-<br><br>
----
+## <br><br>
 
 ### 🎖️ Certifications & Badges
 
@@ -134,16 +133,18 @@
   </a>
 </p>
 
---- 
-<p align="center">
+---
+
+<p align="center"  >
 <!-- ROTATING_GIF_START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rain_astetic_dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="assets/building_white.gif">
-  <img src="assets/rain_astetic_dark.gif" alt="vibe" width="50%"/>
-</picture>
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rain_astetic_dark.gif" style="border-radius:50%;">
+    <source media="(prefers-color-scheme: light)" srcset="assets/building_white.gif" style="border-radius:50%;">
+    <img src="assets/rain_astetic_dark.gif"  alt="vibe" width="70%" style="border-radius:50%;"/>
+  </picture>
 <!-- ROTATING_GIF_END -->
 </p>
 
 ---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8921a6,50:2f0559,100:0f0526&height=120&section=footer"/>
