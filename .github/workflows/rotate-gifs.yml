@@ -1,0 +1,22 @@
+name: Rotate Profile GIF
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # daily at noon UTC
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rotate GIF
+        run: python3 .github/scripts/rotate_gif.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: rotate profile gif [skip ci]"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
