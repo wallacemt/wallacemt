@@ -4,7 +4,7 @@
 
 <div align="center" style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
 
-  <img alt="streak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wallacemt&theme=tokyonight&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=true&date_format=j+M%5B+Y%5D&mode=daily&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg"/>
+  <img alt="streak-stats" height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wallacemt&theme=tokyonight&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=true&date_format=j+M%5B+Y%5D&mode=daily&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&hide_current_streak=true"/>
 </div>
 
 <br>
