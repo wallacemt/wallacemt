@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/Gemini_AI-2f0559?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-2f0559?style=flat-square&logo=supabase&logoColor=white"/>
 
-> Plataforma gamificada de preparação para certificações AWS — XP, níveis, conquistas e leaderboard em tempo real. Questões e labs gerados por IA via Gemini, processados em background com BullMQ.
+> Plataforma gamificada de preparação para certificações AWS — XP, níveis, conquistas e leaderboard em tempo real. Questões e labs gerados por IA, processados em background com BullMQ.
 
 <br><br>
 
