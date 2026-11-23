@@ -138,9 +138,9 @@
 <p align="center"  >
 <!-- ROTATING_GIF_START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/underground_dark.gif" style="border-radius:50%;">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rain_astetic_dark.gif" style="border-radius:50%;">
   <source media="(prefers-color-scheme: light)" srcset="assets/building_white.gif" style="border-radius:50%;">
-  <img src="assets/underground_dark.gif" alt="vibe" width="50%" style="border-radius:70%;"/>
+  <img src="assets/rain_astetic_dark.gif" alt="vibe" width="50%" style="border-radius:70%;"/>
 </picture>
 <!-- ROTATING_GIF_END -->
 </p>
